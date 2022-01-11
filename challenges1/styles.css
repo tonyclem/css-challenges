@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5b80bd;
+}
+
+h1 {
+  padding: 0.4em 1.2em;
+}
+
+p {
+  padding: 0.5em 1.5em;
+  font-size: 1.3em;
+}
+
+li {
+  font-size: 1.3em;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.copyright {
+  font-style: italic;
+  font-size: 1em;
+  padding: 0.5em;
+}

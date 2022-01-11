@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(253, 172, 142);
+  font-style: italic;
+}
+
+#wrap {
+  border: 3px dotted black;
+  background: rgb(255, 235, 210);
+  text-align: center;
+  margin: 5% 20% 0 20%;
+}
+
+h1 {
+  border-bottom: 3px dotted black;
+  padding: 3px;
+}
+
+li {
+  list-style: none;
+}
+
+li::first-letter {
+  font-size: 140%;
+}

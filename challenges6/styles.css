@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+#wrap {
+  width: 100vw;
+}
+
+#wrap img {
+  width: 100vw;
+  height: 30vh;
+}
+
+#wrap ul {
+  padding: 15px;
+}
+
+#wrap li {
+  display: inline;
+  font-size: 20px;
+  padding: 20px;
+}
+
+#wrap li:hover {
+  color: red;
+}
+
+.thepost {
+  background: rgb(185, 185, 185);
+  position: absolute;
+
+  width: 100vw;
+  text-align: center;
+}
+
+.posttitle {
+  font-style: italic;
+  padding: 20px;
+}
+
+.dateheader {
+  font-family: monospace;
+}
+
+.thepost p {
+  font-size: 20px;
+  padding: 15px;
+  letter-spacing: 1px;
+}
+
+.postfooter {
+  font-style: italic;
+}
